@@ -23,7 +23,7 @@ Make sure you have an up-to-date web browser installed on your computer to run t
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/GuiAgapito/clima_sensegi.git`
-2. Navigate to the project directory: `cd your-directory`
+2. Navigate to the project directory: `cd clima_sense`
 
 ## How to Use
 
@@ -34,5 +34,5 @@ Make sure you have an up-to-date web browser installed on your computer to run t
 
 ## Contact
 
-Your Name - your-email@example.com
+Your Name - guilherme.agapito2004@gmail.com
 ClimaSense: [Project Link](https://github.com/GuiAgapito/clima_sense)
