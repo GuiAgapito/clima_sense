@@ -34,5 +34,5 @@ Make sure you have an up-to-date web browser installed on your computer to run t
 
 ## Contact
 
-Your Name - guilherme.agapito2004@gmail.com
-ClimaSense: [Project Link](https://github.com/GuiAgapito/clima_sense)
+- Your Name - guilherme.agapito2004@gmail.com
+- ClimaSense: [Project Link](https://guiagapito.github.io/clima_sense/)
