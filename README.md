@@ -22,7 +22,7 @@ Make sure you have an up-to-date web browser installed on your computer to run t
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/GuiAgapito/clima_sensegi.git`
+1. Clone this repository: `git clone https://github.com/GuiAgapito/clima_sense.git`
 2. Navigate to the project directory: `cd clima_sense`
 
 ## How to Use
